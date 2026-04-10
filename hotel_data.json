@@ -1,0 +1,40 @@
+{
+  "hotel_name": "Sunrise Hotel",
+  "location": "Hyderabad",
+  "rooms": [
+    {
+      "room_number": 101,
+      "type": "Single",
+      "price": 1500,
+      "available": true
+    },
+    {
+      "room_number": 102,
+      "type": "Double",
+      "price": 2500,
+      "available": false
+    },
+    {
+      "room_number": 103,
+      "type": "Suite",
+      "price": 4000,
+      "available": true
+    }
+  ],
+  "guests": [
+    {
+      "guest_id": 1,
+      "name": "Rahul Sharma",
+      "room_number": 101,
+      "check_in": "2026-04-10",
+      "check_out": "2026-04-12"
+    },
+    {
+      "guest_id": 2,
+      "name": "Anjali Verma",
+      "room_number": 102,
+      "check_in": "2026-04-11",
+      "check_out": "2026-04-13"
+    }
+  ]
+}
