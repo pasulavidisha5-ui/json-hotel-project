@@ -1,21 +1,26 @@
-# JSON Hotel Management Project
+# 🏨 JSON Hotel Management Project
 
 ## 📌 Description
-This project demonstrates how hotel data is stored and managed using JSON.
+This project demonstrates how hotel and guest data can be stored and managed using JSON format.  
+A Python program is used to read and display the data.
 
-## 🧾 Files in this project
-- hotel_data.json → Contains hotel, room, and guest details
-- main.py → Python program to read and display JSON data
+---
 
-## ⚙️ How it works
-The Python script reads the JSON file and displays guest and room details.
+## 🧾 Project Files
 
-## 🧑‍💻 Technologies Used
-- JSON
-- Python
+- `hotel_data.json` → Stores hotel, room, and guest details  
+- `main.py` → Python program to read and display JSON data  
 
-## 📊 Output Example
-Displays guest names and their room numbers.
+---
+
+## ⚙️ Features
+
+- Store hotel and guest information using JSON  
+- Display guest details using Python  
+- Update guest information (example included in code)  
+
+---
+
 ## ▶️ Output
 
 Example output of the program:
