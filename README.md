@@ -16,3 +16,6 @@ The Python script reads the JSON file and displays guest and room details.
 
 ## 📊 Output Example
 Displays guest names and their room numbers.
+## ▶️ Output
+
+Example output of the program:
